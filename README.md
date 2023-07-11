@@ -4,24 +4,16 @@
 
 ### Author: ahmad jehad alanati
 
-### Links and Resources
-
-back-end server url (when applicable)
-
-front-end application (when applicable)
-
 ### Setup
 
-.env requirements (where applicable)
-i.e.
+.env requirements 
 
-PORT - Port Number
+PORT - 8000
 
-DATABASE_URL - URL to the running Postgres instance/db
 
 ### How to initialize/run your application (where applicable)
 
-e.g. python main.py
+python manage.py runserver
 
 ### How to use your library (where applicable)
 
@@ -29,6 +21,12 @@ e.g. python main.py
 
 How do you run tests?
 
+python manage.py test
+
 Any tests of note?
 
+the test check status code and the template
+
 Describe any tests that you did not complete, skipped, etc
+
+none
