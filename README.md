@@ -6,7 +6,7 @@
 
 ### Setup
 
-.env requirements 
+.env required
 
 PORT - 8000
 
