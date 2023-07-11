@@ -19,14 +19,14 @@ python manage.py runserver
 
 #### Tests
 
-How do you run tests?
+- How do you run tests?
 
 python manage.py test
 
-Any tests of note?
+- Any tests of note?
 
 the test check status code and the template
 
-Describe any tests that you did not complete, skipped, etc
+- Describe any tests that you did not complete, skipped, etc
 
 none
