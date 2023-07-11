@@ -1,6 +1,7 @@
 # LAB - Class 26
 
 ## Project: django snacks
+
 ### Author: ahmad jehad alanati
 
 ### Links and Resources
@@ -8,6 +9,7 @@
 back-end server url (when applicable)
 
 front-end application (when applicable)
+
 ### Setup
 
 .env requirements (where applicable)
@@ -18,11 +20,13 @@ PORT - Port Number
 DATABASE_URL - URL to the running Postgres instance/db
 
 ### How to initialize/run your application (where applicable)
+
 e.g. python main.py
 
 ### How to use your library (where applicable)
 
 #### Tests
+
 How do you run tests?
 
 Any tests of note?
